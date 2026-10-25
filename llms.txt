@@ -32,6 +32,9 @@
 - [Cable company Willenhall customer planning guide](https://local-business-guides.github.io/r-and-g-satellite-services-willenhall/cable-company-willenhall/): Cable company Willenhall guide to planning TV cabling, comparing installation work and preparing your Willenhall home for a visit.
 - [Antenna service Willenhall homeowner guide](https://local-business-guides.github.io/r-and-g-satellite-services-willenhall/antenna-service-willenhall/): Antenna service Willenhall advice to help Willenhall homeowners explain reception faults and prepare for an aerial installation visit.
 
+## Newsroom
+- [R & G Satellite Services Publishes Guide to TV Aerial Repairs in Wolverhampton](https://local-business-guides.github.io/r-and-g-satellite-services-willenhall/news/2026-10-25-r-g-satellite-services-publishes-guide-to-tv-aeria/): R & G Satellite Services has published a guide to TV aerial repairs in Wolverhampton, with related video and audio versions. (2026-10-25)
+
 ## Pages
 - [Tv Aerial Repairs Wolverhampton in Willenhall](https://local-business-guides.github.io/r-and-g-satellite-services-willenhall/): Get your TV reception concerns explained and discuss aerial installation options with R & G Satellite Services in Willenhall. Call +441922302134.
 - [About R & G Satellite Services and Contact](https://local-business-guides.github.io/r-and-g-satellite-services-willenhall/about/): About R & G Satellite Services, Willenhall.
@@ -39,4 +42,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/r-and-g-satellite-services-willenhall/sitemap.xml)
-- [Main resource site](https://rg-satellite-willenhall-tv.localwebsites.chatgpt.site)
+- [News RSS feed](https://local-business-guides.github.io/r-and-g-satellite-services-willenhall/news/rss.xml)
+- [Main resource site](https://atlas-pages.localwebsites.chatgpt.site/m/r-g-satellite-services-tv-aerial-repairs-wolverhampton-service-areas-106975/embed)
